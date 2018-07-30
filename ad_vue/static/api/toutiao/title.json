@@ -1,0 +1,58 @@
+{
+	"header": "今日头条",
+	"content": [		
+		{
+		  "title": "HG1386邀您激情世界杯，豪礼送不停",
+		  "id": "1",
+		  "meta": " HG1386邀您激情世界杯，豪礼送不停！ 会员如果在HG1386累计充值满5000，即可连续7日领取世界杯彩金！点击查看详情内容！更多豪礼请登录HG1386……"
+		},		
+		{
+		  "title": "HG1386AG电子游戏XIN哥送您9999纯金币",
+		  "id": "2",
+		  "meta": "HG铂金认证HG1386AG电子游戏XIN个送金币。AG国际 XIN Gaming 隆重推出“XIN哥来了”老虎机游戏！XIN哥将于活动时间内，在“XIN哥来了”游戏中豪洒9999纯金币。"
+		}		
+	],
+	"imgRight": {
+		"src": [ "/static/api/toutiao/images/toutiao-1.jpg", "/static/api/toutiao/images/toutiao-2.jpg", "/static/api/toutiao/images/toutiao-3.jpg", "/static/api/toutiao/images/toutiao-4.jpg" ]
+	},
+	"imgBottom": [
+		{
+			"src": "/static/api/toutiao/images/ad-03.gif"
+		},
+		{
+			"src": "/static/api/toutiao/images/ad-03.gif"
+		}
+	],
+	"lists": [
+		{
+			"name": "皇冠",
+			"title": "东南亚博彩市场博华太平洋高级副总裁看好越南",
+			"id": "3",
+			"time": "2018/05/25"
+		},
+		{
+			"name": "HG",
+			"title": "滚球必定有进球法则：什么时候进球最多",
+			"id": "4",
+			"time": "2018/05/05"
+		},
+		{
+			"name": "皇冠",
+			"title": "赛马投注的领跑者PMU看到亚洲赛马市场的增长",
+			"id": "5",
+			"time": "2018/04/16"
+		},
+		{
+			"name": "皇冠",
+			"title": "西班牙博彩市场调查：球迷对博彩赞助球队没有敌意",
+			"id": "6",
+			"time": "2018/03/25"
+		},
+		{
+			"name": "HG",
+			"title": "巴拉圭批准了有争议的体育博彩垄断许可证",
+			"id": "7",
+			"time": "2018/02/27"
+		}
+	]
+}

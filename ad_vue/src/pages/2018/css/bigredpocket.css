@@ -1,0 +1,109 @@
+﻿/* big red pocket */
+.pocket1{
+    width: 110px;position: relative;top: -280px;left: -55px;z-index: 7; 
+    animation: pocket1 5s alternate infinite linear;
+    -webkit-animation: pocket1 5s alternate infinite linear;
+}
+.pocket2{
+    width: 110px;position: relative;top: -100px;left: -90px; 
+    animation: pocket2 5s alternate infinite linear;
+    -webkit-animation: pocket2 5s alternate infinite linear;
+}
+.pocket3{
+    width: 110px;position: relative;top: -170px;left: -120px; 
+    animation: pocket3 5s alternate infinite linear;
+    -webkit-animation: pocket3 5s alternate infinite linear;
+}
+.pocket4{
+    width: 100px;position: relative;top: -140px;left: 510px;z-index: 8;
+    animation: pocket4 5s alternate infinite linear;
+    -webkit-animation: pocket4 5s alternate infinite linear;
+}
+.pocket5{
+    width: 110px;position: relative;top: -250px;left: 490px;z-index: 7;
+    animation: pocket5 5s alternate infinite linear;
+    -webkit-animation: pocket5 5s alternate infinite linear;
+}
+.pocket6{
+    width: 110px;position: relative;top: -80px;left: 430px;z-index: 6;
+    animation: pocket6 5s alternate infinite linear;
+    -webkit-animation: pocket6 5s alternate infinite linear;
+}
+.cloud1{
+    width: 110px;position: relative;top: -100px;left: -390px;width: 180px;z-index: 6;
+    animation: cloud1 5s alternate infinite linear;
+    -webkit-animation: cloud1 5s alternate infinite linear;
+}
+.cloud2{
+    width: 110px;position: relative;top: -200px;left: -300px;width:160px;z-index: 6;
+    animation: cloud2 5s alternate infinite linear;
+    -webkit-animation: cloud2 5s alternate infinite linear;
+}
+.roof{
+    width: 1300px;position: relative;z-index:9;
+}
+@keyframes pocket1 {
+    from {transform: translateY(0px);}
+    to {transform: translateY(40px);}
+  }
+@keyframes pocket2 {
+    from {transform: translateY(0px);}
+    to {transform: translateY(-40px);}
+}
+@keyframes pocket3 {
+    from {transform: translateY(0px);}
+    to {transform: translateY(-40px);}
+}
+@keyframes pocket4 {
+    from {transform: translateY(0px);}
+    to {transform: translateY(-40px);}
+}
+@keyframes pocket5 {
+    from {transform: translateY(0px);}
+    to {transform: translateY(40px);}
+}
+@keyframes pocket6 {
+    from {transform: translateY(0px);}
+    to {transform: translateY(-40px);}
+}
+@keyframes cloud1 {
+    from {transform: translateX(0px);}
+    to {transform: translateX(-20px);}
+}
+@keyframes cloud2 {
+  from {transform: translateX(0px);}
+  to {transform: translateX(20px);}
+}
+/* webkit */
+@-webkit-keyframes pocket1 {
+    from {transform: translateY(0px);}
+    to {transform: translateY(40px);}
+  }
+@-webkit-keyframes pocket2 {
+    from {transform: translateY(0px);}
+    to {transform: translateY(-40px);}
+}
+@-webkit-keyframes pocket3 {
+    from {transform: translateY(0px);}
+    to {transform: translateY(-40px);}
+}
+@-webkit-keyframes pocket4 {
+    from {transform: translateY(0px);}
+    to {transform: translateY(-40px);}
+}
+@-webkit-keyframes pocket5 {
+    from {transform: translateY(0px);}
+    to {transform: translateY(40px);}
+}
+@-webkit-keyframes pocket6 {
+    from {transform: translateY(0px);}
+    to {transform: translateY(-40px);}
+}
+@-webkit-keyframes cloud1 {
+    from {transform: translateX(0px);}
+    to {transform: translateX(-20px);}
+}
+@-webkit-keyframes cloud2 {
+  from {transform: translateX(0px);}
+  to {transform: translateX(20px);}
+}

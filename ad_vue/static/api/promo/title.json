@@ -1,0 +1,53 @@
+{
+    "header": "优惠活动",
+    "content": [
+        {
+            "id": "1",
+            "imgsrc": "/static/api/promo/images/ceping-1.png",
+            "name": "",
+            "title": "HG1386周周返点高达1.2%",
+            "desc": "每周都返，倾情回馈",
+            "content": "每周都返，倾情回馈"
+        },
+        {
+            "id": "2",
+            "imgsrc": "/static/api/promo/images/ceping-2.png",
+            "name": "",
+            "title": "首次存款可得30%彩金",
+            "desc": "首次存款可得30%彩金",
+            "content": "首次存款可得30%彩金"
+        },
+        {
+            "id": "3",
+            "imgsrc": "/static/api/promo/images/ceping-3.png",
+            "name": "",
+            "title": "会员二次存款可得15%彩金",
+            "desc": "会员二次存款可得15%彩金",
+            "content": "会员二次存款可得15%彩金"
+        },
+        {
+            "id": "4",
+            "imgsrc": "/static/api/promo/images/ceping-4.png",
+            "name": "",
+            "title": "连赢送大礼",
+            "desc": "连赢送大礼，最高可达88888元",
+            "content": "连赢送大礼，最高可达88888元"
+        },
+        {
+            "id": "5",
+            "imgsrc": "/static/api/promo/images/ceping-5.png",
+            "name": "",
+            "title": "真人视讯，周周返点高达1.0%",
+            "desc": "真人视讯，周周返点高达1.0%",
+            "content": "HG1386百家乐"
+        },
+        {
+            "id": "6",
+            "imgsrc": "/static/api/promo/images/ceping-6.png",
+            "name": "",
+            "title": "MG游戏周周返点最高2.0%",
+            "desc": "MG游戏周周返点最高2.0%",
+            "content": "MG游戏周周返点最高2.0%"
+        }        
+    ]
+}

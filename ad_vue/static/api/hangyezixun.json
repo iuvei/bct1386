@@ -1,0 +1,149 @@
+{
+	"header": "行业资讯",
+	"number": "279",
+	"infos": "2000",
+	"content":[
+	    [
+	    	{
+				"title": "博彩资讯",
+				"list":[
+					{
+						"name": "经验",
+						"item": "大摩将澳门中场博彩收入增长预测由12%升至15%",
+						"src": "innerhangzi1.php"
+					},
+					{
+						"name": "经验",
+						"item": "2018年韩国MegaLuck赌场博彩总是如增长68.3%",
+						"src": "innerhangzi2.php"
+					},
+					{	
+						"name": "经验",
+						"item": "新加坡博彩问题委员会调查：博彩人数越来越多",
+						"src": "innerhangzi3.php"
+					},
+					{
+						"name": "技巧",
+						"item": "博彩运营商Kindred赢得比利时在线赌博增值税案",
+						"src": "innerhangzi4.php"
+					},
+					{
+						"name": "经验",
+						"item": "英国博彩委员会进一步加强在线博彩游戏的安全措施",
+						"src": "innerhangzi5.php"
+					}
+				]
+			},
+			{
+				"title": "博彩交流",
+				"list":[
+					{
+						"name": "经验",
+						"item": "全球最有钱的赌场大亨金沙老板阿德尔森福布斯排21位",
+						"src": "innerhangzi6.php"
+					},
+					{
+						"name": "经验",
+						"item": "趣味博彩赔率：威廉夫妇第三台取名 Mary排第一",
+						"src": "innerhangzi7.php"
+					},
+					{	
+						"name": "经验",
+						"item": "2017年全球十大赌场排名 澳门威尼斯人排榜首",
+						"src": "innerhangzi8.php"
+					},
+					{
+						"name": "技巧",
+						"item": "不止澳门是赌城 全球九大赌城你了解多少？",
+						"src": "innerhangzi9.php"
+					},
+					{
+						"name": "经验",
+						"item": "赌坛风云人物：澳门新赌王-银河娱乐主席吕志和",
+						"src": "innerhangzi10.php"
+					}
+				]
+			}
+	    ],
+	    [
+	    	{
+				"title": "娱乐城动态",
+				"list":[
+					{
+						"name": "经验",
+						"item": "HG1386正式推出比特币存取款安全可靠分秒到账",
+						"src": "innerhangzi11.php"
+					},
+					{
+						"name": "经验",
+						"item": "2018乐橙娱乐开启免费定制高端全球私人之旅",
+						"src": "innerhangzi12.php"
+					},
+					{	
+						"name": "经验",
+						"item": "HG1386梦想2018上海站 f1东方巴黎极致自由行",
+						"src": "innerhangzi13.php"
+					},
+					{
+						"name": "技巧",
+						"item": "凯发娱乐带您亲临周杰伦【地表最强2】演唱会",
+						"src": "innerhangzi14.php"
+					},
+					{
+						"name": "经验",
+						"item": "HG1386AG电子游戏XIN哥送您9999纯金币",
+						"src": "innerhangzi15.php"
+					}
+				]
+			},
+			{
+				"title": "体育博彩",
+				"list":[
+					{
+						"name": "经验",
+						"item": "2018年世界杯夺冠赔率：五星巴西成为夺冠头号热门",
+						"src": "innerhangzi16.php"
+					},
+					{
+						"name": "经验",
+						"item": "中国杯赔率：博彩公司预测国足或再遭大比分惨败",
+						"src": "innerhangzi17.php"
+					},
+					{	
+						"name": "经验",
+						"item": "nba超神哈登mvp赔率：博彩公司赛季初1赔11到盘口关闭",
+						"src": "innerhangzi18.php"
+					},
+					{
+						"name": "技巧",
+						"item": "中国杯博彩赔率：国足vs威尔士 国足赢球概率仅15%",
+						"src": "innerhangzi19.php"
+					},
+					{
+						"name": "经验",
+						"item": "中超最新赔率：上港第1恒大第2 一方排名出人意料",
+						"src": "innerhangzi20.php"
+					}
+				]
+			}
+	    ]		
+	],
+	"dttitle":"优惠活动",
+	"dongtai": [
+		{
+			"src": "images/1386-1.jpg",
+			"title": "首存赠送50%",
+			"link": "innerhuodong7.php"
+		},
+		{
+			"src": "images/1386-2.jpg",
+			"title": "盈利就送20%",
+			"link": "innerhuodong8.php"
+		},
+		{
+			"src": "images/1386-3.jpg",
+			"title": "负盈利返还20%",
+			"link": "innerhuodong10.php"
+		}
+	]
+}

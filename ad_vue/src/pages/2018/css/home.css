@@ -1,0 +1,958 @@
+﻿body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    color: #6e6e6e;
+    background: #22222a;
+    min-width: 1000px; 
+}
+
+.container {
+    width: 100%!important;
+    /* max-width: 1440px; */
+    /* margin: 0 auto; */
+}
+
+.carousel-container {
+    height: 590px;
+    background: transparent;
+    color: #FFF;
+}
+
+.carousel-indicators {
+    text-align: right;
+}
+
+.carousel-indicators li {
+    width: 20px;
+    height: 20px;
+    border-radius: 3px;
+    background-color: #000;
+    background-color: rgba(0, 0, 0, .4);
+    border: 1px solid;
+    border-color: #fff;
+    border-color: rgba(255, 255, 255, .4);
+}
+
+.carousel-indicators li.active {
+    width: 20px;
+    height: 20px;
+    margin: 1px;
+    background-color: #000;
+    background-color: rgba(0, 0, 0, .8);
+    border-color: #fff;
+    border-color: rgba(255, 255, 255, .7);
+}
+
+.ads-placeholder {
+    padding-bottom: 10px;
+}
+
+.sub-wrap {
+    height: 262px;
+    overflow: hidden;
+    position: relative;
+    transition: all .25s;
+}
+
+.sub-wrap .placeholder {
+    min-height: 84px;
+    height: auto;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: left;
+    padding-top: 40px;
+}
+
+.sub-wrap .copy-title {
+    color: #ffffff;
+    letter-spacing: 0;
+}
+
+.sub-wrap .copy-title {
+    font-weight: 400;
+    font-size: 22px;
+    margin: 40px 10px 20px 10px;
+    line-height: 110%;
+}
+
+.carousel .container {
+    margin: 0 auto;
+    min-width: 1000px;
+    max-width: 1440px;
+    height: 100%;
+}
+
+.tv-content {
+    display: table;
+    width: 100%;
+    position: relative;
+    height: 500px;
+}
+
+.tv-content-wrap .tnc-apply {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    font-size: 19px;
+    padding: 1px 5px;
+    text-align: right;
+}
+
+.tv-content-wrap {
+    position: relative;
+    height: 100%;
+}
+
+.v-centered {
+    height: 500px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.fnt-black {
+    color: #000000;
+}
+
+.tv-image-bg .btn {
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.tv-image-bg .copy-desc {
+    font-size: 2em;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 120%;
+}
+
+.tv-image-bg .copy-sub-title {
+    font-size: 3em;
+    font-weight: 100;
+    letter-spacing: -1px;
+    line-height: 100%;
+}
+
+.sub-wrap.S-IOSAPK-0217 {
+    background: #080808 url(../images/middle_banner_4.png) top center no-repeat;
+    background-size: contain;
+    cursor: pointer;
+}
+
+.S-MOBILEAPKch-0916 {
+    background: #addefe url(../images/middle_banner_3.jpg) top center no-repeat;
+    background-size: cover;
+}
+
+.S-MOBILEAPKch-0916:hover {
+    cursor: pointer;
+}
+
+#worldcup-banner-container {
+    position: relative;
+    height: 880px;
+    width: 100%;
+    min-width: 1440px;
+}
+
+.wc-background-inner {
+    height: 100%;
+    width: 100%;
+}
+
+.wc-bg-banner {
+    background: url(../images/banner_background.jpg) no-repeat center center, linear-gradient(to right, #22222a, #22222a);
+    width: 100%;
+    height: 100%;
+}
+
+.wc-bg-img {
+    background: url(../images/banner_bg.jpg) no-repeat top right, linear-gradient(to right, #22222a, #22222a);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.wc-cRonaldo-inner {
+    overflow: hidden;
+    max-width: 1440px;
+    display: flex;
+}
+
+.wc-cR-img {
+    min-width: 894px;
+    position: relative;
+    top: 0;
+    right: -200px;
+}
+
+.wc-text-container {
+    min-width: 140px;
+    height: 344px;
+    position: relative;
+    top: 125px;
+    left: -10px;
+    display: flex;
+}
+
+.wc-logo-img {
+    margin-left: 10px;
+}
+
+.wc-worldcup-img {
+    background: url(../images/banner_worldcuplogo.png) no-repeat top center;
+    width: 100%;
+    height: 100%;
+}
+
+.wc-title-inner {
+    display: flex;
+    flex-direction: column;
+    width: 713px;
+    height: 344px;
+    margin-left: 10px;
+    z-index: 9;
+}
+
+.wc-title-img-margin {
+    margin-bottom: 10px;
+}
+
+.wc-title-font {
+    width: 713px;
+    color: #fff;
+}
+
+.wc-cR-signature-img {
+    position: relative;
+    top: 220px;
+    right: 70px;
+}
+
+.wc-bg-effect {
+    position: absolute;
+    top: 760px;
+    height: 121px;
+    width: 100%;
+    background: url(../images/banner_bglow.png) repeat bottom left;
+}
+
+#button-container {
+    position: absolute;
+    top: 620px;
+    width: 100%;
+    height: 200px;
+    min-width: 1440px;
+    background: #181818;
+    opacity: 0.9;
+}
+
+.btn-inner {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.page-btn-panel {
+    width: 55%;
+    height: 100%;
+}
+
+.page-btn-inner {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.btn-container {
+    width: 20%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+    border-left: 1px solid #0e0e10;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+}
+
+.btn-empty {
+    border-left: 0px;
+    cursor: auto;
+}
+
+.btn-sport {
+    width: 100%;
+    height: 55%;
+    background: url(../images/recommend_btn01.png) no-repeat center center;
+}
+
+.btn-casino {
+    width: 100%;
+    height: 55%;
+    background: url(../images/recommend_btn02.png) no-repeat center center;
+}
+
+.btn-livecasino {
+    width: 100%;
+    height: 55%;
+    background: url(../images/recommend_btn03.png) no-repeat center center;
+}
+
+.btn-lottery {
+    width: 100%;
+    height: 55%;
+    background: url(../images/recommend_btn04.png) no-repeat center center;
+}
+
+.btn-container-text-ch {
+    font-size: 20px;
+}
+
+.btn-container-text-eng {
+    font-size: 15px;
+}
+
+.wc-live-panel {
+    width: 500px;
+    border-left: 1px solid #0e0e10;
+}
+
+.wc-live-carousel-inner {
+    height: 200px;
+}
+
+.wc-live-carousel-container {
+    height: 200px;
+    background: transparent;
+    color: #FFF;
+}
+
+.live-match-container {
+    width: 100%;
+    height: 110px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.live-match-col1, .live-match-col3 {
+    width: 20%;
+}
+
+.live-match-col2 {
+    width: 40%;
+    text-align: center;
+    margin: 0px 10px;
+}
+
+.live-match-teamA, .live-match-teamB {
+    text-align: center;
+    margin: 20px auto 10px auto;
+}
+
+.live-match-teamA-name, .live-match-teamB-name {
+    text-align: center;
+    margin: 0px auto;
+    font-size: 15px;
+}
+
+.live-match-result {
+    font-size: 75px;
+    margin-top: 2px;
+    margin-bottom: -18px;
+}
+
+.live-result-progress-bar-container {
+    width: 100%;
+    height: 50px;
+}
+
+.live-result-progress-bar-inner {
+    width: 350px;
+    height: 20px;
+    margin: 10px auto;
+}
+
+.pos-bar {
+    overflow: hidden;
+    border-radius: 9999px;
+    background-color: #0090d7;
+    text-align: left;
+}
+
+.pos-bar__mask {
+    width: 50%;
+    height: 6px;
+    background-color: #d31726;
+}
+
+.pos-bar__mask--to-start {
+    width: 100%;
+    background-color: #E9ECEF;
+}
+
+.wc-live-carousel-control {
+    position: absolute;
+    top: 20px;
+    left: 0;
+    width: 15%;
+    font-size: 20px;
+    color: transparent;
+    text-align: center;
+}
+
+.carousel-control:focus, .carousel-control:hover, a:hover, a:focus {
+    color: transparent;
+}
+
+.wc-live-carousel-control.left {
+    right: auto;
+    left: 70px;
+}
+
+.arrow-left {
+    background: url(../images/recommend_arrowleft.png) no-repeat center center;
+}
+
+.arrow-left:focus, .arrow-left:hover, {
+    background: url(../images/recommend_arrowleft_on.png) no-repeat center center;
+}
+
+.wc-live-carousel-control.right {
+    right: 70px;
+    left: auto;
+}
+
+.arrow-right {
+    background: url(../images/recommend_arrowright.png) no-repeat center center;
+}
+
+.arrow-right:focus, .arrow-right:hover {
+    background: url(../images/recommend_arrowright_on.png) no-repeat center center;
+}
+
+.wc-live-carousel-control-text {
+    position: absolute;
+    top: 22px;
+    left: 25%;
+    width: 50%;
+    font-size: 16px;
+    color: #ff8e01;
+    text-align: center;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
+    background-color: transparent;
+    vertical-align: middle;
+}
+
+.wc-rus2018-signature {
+    width: 25%;
+    border-left: 1px solid #0e0e10;
+}
+
+.mascot {
+    position: absolute;
+    bottom: 30px;
+    margin-left: 30px;
+}
+
+#main-container {
+    position: relative;
+    height: 1050px;
+    width: 100%;
+    min-width: 1440px;
+}
+
+.title-inner {
+    position: absolute;
+    top: 0px;
+    height: 180px;
+    width: 100%;
+    min-width: 1440px;
+    text-align: center;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+.title {
+    color: #fafafa;
+    font-size: 40px;
+    margin-top: 40px;
+}
+
+.subtitle {
+    color: #5e5c6d;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.main-inner {
+    position: relative;
+    height: 1050px;
+    width: 100%;
+    min-width: 1440px;
+    background: url(../images/group_bg.jpg) no-repeat bottom left, linear-gradient(to right, #22222a, #22222a);
+    /* background-size: cover; */
+    text-align: center;
+    margin: 0 auto;
+}
+
+.group-schedule-container {
+    position: relative;
+    top: 155px;
+    height: 360px;
+    width: 100%;
+    min-width: 1440px;
+    margin: 0 auto;
+}
+
+.group-schedule-inner {
+    position: relative;
+    height: 360px;
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    overflow: hidden;
+    display: flex;
+}
+
+.group-schedule-panel {
+    height: 360px;
+    width: 1330px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.schedule-week-bg {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 30px;
+    max-width: 1330px;
+    margin: 0 auto;
+    background: #1b1c21;
+    border: 1px solid #595670;
+    border-radius: 30px;
+    display: flex;
+}
+
+.schedule-week-format {
+    width: calc(100%/7);
+    height: 30px;
+    border-right: 1px solid #595670;
+}
+
+.group-schedule-week-panel {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    max-width: 1330px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.group-schedule-days-container {
+    position: relative;
+    /* width: 190px; */
+    height: 100%;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.group-schedule-days-inner {
+    position: relative;
+    width: 190px;
+    height: 360px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.week-title {
+    position: relative;
+    width: 190px;
+    line-height: 30px;
+    font-size: 16px;
+    color: #f0f0f0;
+    overflow: hidden;
+}
+
+.days-match-container {
+    position: relative;
+    width: calc(100% - 10px);
+    height: calc(100% - 10px);
+    margin: 0 auto;
+}
+
+.day-title {
+    margin-top: 10px;
+    line-height: 30px;
+    height: 30px;
+    font-size: 16px;
+    color: #f0f0f0;
+    background: #534f60;
+    border-radius: 5px;
+}
+
+.today-title {
+    background: #ff9201;
+}
+
+.days-detail-container {
+    position: relative;
+    width: 100%;
+    height: calc(100% - 70px);
+}
+
+.days-match-detail {
+    width: 100%;
+    height: calc((100% - 8px) /4);
+    margin: 3px auto;
+    background: #eeeeee;
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+}
+
+.home-team-container {
+    width: 25%;
+    height: 100%;
+}
+
+.team-detail-container {
+    width: 50%;
+    height: 100%;
+}
+
+.away-team-container {
+    width: 25%;
+    height: 100%;
+}
+
+.home-team-flag, .home-team-gf, .away-team-flag, .away-team-gf {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    margin: 20% auto;
+    color: #f0f0f0;
+    font-size: 30px;
+}
+
+.home-team-flag, .away-team-flag {
+    background: #534f60;
+    border-radius: 50%;
+}
+
+.home-team-gf, .away-team-gf {
+    background: #534f60;
+    border-radius: 50%;
+}
+
+.gf-hidden {
+    visibility: hidden;
+}
+
+.team-detail-inner {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.home-verus-away-container {
+    width: 100%;
+    height: 60%;
+}
+
+.home-verus-away-text {
+    margin: 5.5px auto;
+    font-size: 14px;
+    color: #38383b;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.home-team-name, .away-team-name {
+    width: 35%;
+}
+
+.vs-text {
+    width: 20%;
+    color: #fe9201;
+}
+
+.verus-time {
+    width: 95%;
+    height: 30%;
+    line-height: 20px;
+    margin: 2px auto;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    box-shadow: 1px 1px 2px #534f60;
+    background: #534f60;
+    color: #f0f0f0;
+}
+
+.match-processing {
+    background: #fe9201;
+    box-shadow: 1px 1px 2px transparent;
+}
+
+.schedule-control {
+    position: absolute;
+    top: 180px;
+    left: 0;
+    width: 50px;
+    font-size: 20px;
+    color: transparent;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.schedule-control.left {
+    right: auto;
+    left: 0px;
+}
+
+.schedule-control.right {
+    right: 0px;
+    left: auto;
+}
+
+.schedule-control-btn {
+    position: relative;
+    width: 100%;
+    height: 50px;
+    margin: auto;
+    cursor: pointer;
+}
+
+.schedule-left {
+    background: url(../images/group_arrowleft.png) no-repeat center center;
+}
+
+.schedule-right {
+    background: url(../images/group_arrowright.png) no-repeat center center;
+}
+
+.schedule-left:hover {
+    background: url(../images/group_arrowleft_on.png) no-repeat center center;
+}
+
+.schedule-right:hover {
+    background: url(../images/group_arrowright_on.png) no-repeat center center;
+}
+
+.group-stage-container {
+    position: relative;
+    top: 0;
+    height: 280px;
+    width: 100%;
+    min-width: 1440px;
+    margin: 5px auto;
+    display: flex;
+    justify-content: center;
+    /* z-index: 2; */
+}
+
+.group-stage-inner {
+    height: 100%;
+    margin: 0 5px;
+    background: url(../images/group_table_bg.png) no-repeat center center;
+}
+
+.group-stage-table-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+ul.group-stage-table-inner {
+    width: 165px;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.table-title {
+    width: 97%;
+    height: 44px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid #434352;
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+}
+
+.title-group {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.gp-title {
+    font-size: 26px;
+    margin-top: 10px;
+}
+
+.title-points-goals {
+    font-size: 15px;
+}
+
+.table-team {
+    width: 97%;
+    height: 156px;
+    margin: 2px auto 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+table {
+    width: 100%;
+    height: 100%;
+    table-layout: auto;
+    border-collapse: separate;
+}
+
+.nation-flag {
+    margin: 0;
+    padding: 0;
+}
+
+.gp-team-title {
+    float: left;
+    color: #fff;
+    line-height: 36px;
+}
+
+.team-points, .team-goals {
+    font-size: 16px;
+    line-height: 30px;
+    padding: 0 2px;
+}
+
+.table-shadow {
+    width: 100%;
+    height: 33px;
+    background: url(../images/group_table_bgshadow.png) no-repeat center center;
+}
+
+.main-bg-effect {
+    position: absolute;
+    bottom: -1px;
+    height: 121px;
+    width: 100%;
+    background: url(../images/group_bg_low.png) repeat bottom left;
+}
+
+#news-container {
+    margin-bottom: 20px;
+    background-color: white;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 1550px) and (max-height: 768px) {
+    #worldcup-banner-container {
+        transform: translateY(-194px);
+        /* height: 880px;
+        width: 1440px;
+        min-width: 0px; */
+    }
+    .wc-bg-banner {
+        background: url(../images/banner_background.jpg) no-repeat center center, linear-gradient(to right, #22222a, #22222a);
+        background-size: contain;
+    }
+    .wc-bg-img {
+        background: #22222a;
+    }
+    #button-container {
+        top: 370px;
+        width: 1350px;
+        min-width: 0;
+    }
+    /* #main-container {
+        top: -310px;
+        height: 575px;
+        width: 1330px;
+        min-width: 0;
+    } */
+    .title-inner {
+        width: 1300px;
+        min-width: 0;
+    }
+    .main-inner {
+        width: 1300px;
+        min-width: 0;
+        margin: 0;
+    }
+    .group-schedule-container {
+        transform: scale(0.88) translateX(-60px);
+    }
+    /* .main-bg-effect {
+        bottom: -305px;
+    } */
+}
+
+@media only screen and (max-width: 1550px) {
+    #worldcup-banner-container {
+        transform: translateY(-194px);
+        /* height: 880px;
+        width: 1440px;
+        min-width: 0px; */
+    }
+    .wc-bg-banner {
+        background: url(../images/banner_background.jpg) no-repeat center center, linear-gradient(to right, #22222a, #22222a);
+        background-size: contain;
+    }
+    .wc-bg-img {
+        background: #22222a;
+    }
+    #button-container {
+        top: 370px;
+        width: 1350px;
+        min-width: 0;
+    }
+    #main-container {
+        margin-top: -310px;
+        /* height: 575px; */
+        width: 1330px;
+        min-width: 0;
+    }
+    .title-inner {
+        width: 1300px;
+        min-width: 0;
+    }
+    .main-inner {
+        width: 1300px;
+        min-width: 0;
+        margin: 0;
+    }
+    .group-schedule-container {
+        transform: scale(0.88) translateX(-60px);
+    }
+    
+}
